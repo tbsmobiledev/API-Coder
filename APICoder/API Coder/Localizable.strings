@@ -1,0 +1,8 @@
+
+//Login Module
+
+"String1" = "Please enter a valid e-mail";
+"String2" = "Please enter a valid password";
+"String3" = "Done";
+"String4" = "Previous";
+"String5" = "Next";
