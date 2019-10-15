@@ -3,7 +3,7 @@
 API Coder application features:
 
   - API implementation.
-  - API response handled by Codabele.
+  - API response handled by Codable.
 
 ### Installation
 API-Coder requires macOS and IDE-Xcode 10+ to run.
